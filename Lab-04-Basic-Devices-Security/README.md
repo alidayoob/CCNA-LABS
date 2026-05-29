@@ -1,20 +1,20 @@
-\# Lab 04 - Basic Device Security
+# Lab 04 - Basic Device Security
 
 
 
-\## Objective
+## Objective
 
 Configure basic security settings on Cisco routers and switches.
 
 
 
-\## Topology
+## Topology
 
-!\[Lab Topology\\](topology.png)
+![Lab Topology\\](topology.png)
 
 
 
-\## Commands Used
+## Commands Used
 
 Router(config)# hostname R1
 
@@ -30,7 +30,7 @@ R1# show running-config
 
 R1# copy running-config startup-config
 
-\## What I Did
+## What I Did
 
 1\. Changed hostnames to R1 and SW1
 
@@ -46,7 +46,7 @@ R1# copy running-config startup-config
 
 
 
-\## Key Findings
+## Key Findings
 
 \- enable password encryption type: 7 (weak, reversible)
 
@@ -56,13 +56,13 @@ R1# copy running-config startup-config
 
 
 
-\\## Status
+## Status
 
 Completed
 
 
 
-\## Notes
+## Notes
 
 Part of Jeremy's IT Lab CCNA course
 
