@@ -14,4 +14,8 @@
 
 \- Fiber (Single-mode vs Multimode): considered for long/short distance
  \##
+## Status
+✅ Completed
 
+## Notes
+Part of Jeremy's IT Lab CCNA course 
