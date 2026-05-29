@@ -4,7 +4,7 @@
 
  Connect network devices using the correct cable types with Auto MDI-X disabled.
 ## Topology
- !\[Lab Topology](topology.png)
+ ![Lab Topology](topology.png)
 
 ## Cable Types Used
 
