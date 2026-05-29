@@ -1,16 +1,38 @@
-# Lab 02 - Connecting Devices
+# \# Lab 02 - Network Cabling
 
-## Objective
-Learn how to connect network devices using correct cable types.
+# 
 
-## Topics Covered
-- Straight-through cables
-- Crossover cables
-- Console cables
-- Choosing the correct cable type
+# \## Objective
 
-## Status
-✅ Completed
+# Connect network devices using the correct cable types
 
-## Notes
-Part of Jeremy's IT Lab CCNA course.
+# with Auto MDI-X disabled.
+
+# 
+
+# \## Topology
+
+# 
+
+# 
+
+# !\[Lab Topology](topology.png)
+
+# 
+
+# 
+
+# 
+
+# \## Cable Types Used
+
+# \- Straight-through cable: PC to Switch, Router to Switch
+
+# \- Crossover cable: Switch to Switch, Router to Router
+
+# \- Fiber (Single-mode vs Multimode): considered for long/short distance
+
+# 
+
+# \##
+
