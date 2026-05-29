@@ -1,8 +1,8 @@
-\# Lab 03 - OSI Model
+# Lab 03 - OSI Model
 
 
 
-\## Objective
+## Objective
 
 Analyze network traffic using Packet Tracer simulation mode
 
@@ -10,7 +10,7 @@ and identify OSI model layers in action.
 
 
 
-\## Topology
+## Topology
 
 
 
@@ -24,7 +24,7 @@ and identify OSI model layers in action.
 
 
 
-\## What I Did
+## What I Did
 
 \- Used simulation mode to observe traffic across the network
 
@@ -36,7 +36,7 @@ and identify OSI model layers in action.
 
 
 
-\## OSI Layers Observed
+## OSI Layers Observed
 
 \- Layer 7 (Application): DHCP, HTTP
 
@@ -50,13 +50,13 @@ and identify OSI model layers in action.
 
 
 
-\## Status
+## Status
 
 ✅ Completed
 
 
 
-\## Notes
+## Notes
 
 Part of Jeremy's IT Lab CCNA course - Video 03
 
