@@ -14,7 +14,6 @@
  \##
 ## Status
 ✅ Completed
->>>>>>> 7b9c247f9c0680e1408d8214c78f49a48b121e66
 
 ## Notes
 Part of Jeremy's IT Lab CCNA course 
