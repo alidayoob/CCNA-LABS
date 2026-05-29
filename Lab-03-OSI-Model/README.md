@@ -16,7 +16,7 @@ and identify OSI model layers in action.
 
 
 
-!\[Lab Topology](topology.png)
+![Lab Topology](topology.png)
 
 
 
