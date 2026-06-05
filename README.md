@@ -6,7 +6,7 @@ Following Jeremy's IT Lab course on YouTube.
 
 ## Progress
 - Videos completed: 28/67
-- Labs completed: 10 
+- Labs completed: 11
 
 ## Topics Covered
 - Interfaces/Cabling/IEEE 802.3 .
@@ -14,4 +14,4 @@ Following Jeremy's IT Lab course on YouTube.
 - Ethernet Switching .
 - IPv4 Routing & Subnetting.
 - FLSM & VLSM .
-- 
+- VLANs
