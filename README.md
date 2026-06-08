@@ -7,17 +7,17 @@ This portfolio serves as practical evidence of my networking skills.
 ## Progress
 
 
-![Labs Completed](https://img.shields.io/badge/Labs%20Completed-11-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%21Completed-11-brightgreen)
 
 
 
 
-![Course](https://img.shields.io/badge/Course-Jeremy's%20IT%20Lab-blue)
+![Course](https://img.shields.io/badge/Course-Jeremy's%21IT%20Lab-blue)
 
 
 
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-In%21Progress-yellow)
 
 
 
@@ -35,6 +35,10 @@ This portfolio serves as practical evidence of my networking skills.
 | 09 | Troubleshooting Static Routes | Route Verification |
 | 10 | VLSM | Subnetting |
 | 11 | VLANs Part 1 | Network Segmentation |
+| 12 | VLANs Part 2 | Trunk ports & SUB-INTERFACES |
+
+
+
 
 ## Tools Used
 - Cisco Packet Tracer
