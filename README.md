@@ -7,12 +7,12 @@ This portfolio serves as practical evidence of my networking skills.
 ## Progress
 
 
-![Labs Completed](https://img.shields.io/badge/Labs%21Completed-11-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%21Completed-12-brightgreen)
 
 
 
 
-![Course](https://img.shields.io/badge/Course-Jeremy's%21IT%20Lab-blue)
+![Course](https://img.shields.io/badge/Course-Jeremy's%21IT%21Lab-blue)
 
 
 
