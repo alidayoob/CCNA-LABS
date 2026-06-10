@@ -7,7 +7,7 @@ This portfolio serves as practical evidence of my networking skills.
 ## Progress
 
 
-![Labs Completed](https://img.shields.io/badge/Labs%21Completed-12-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%21Completed-13-brightgreen)
 
 
 
@@ -36,7 +36,7 @@ This portfolio serves as practical evidence of my networking skills.
 | 10 | VLSM | Subnetting |
 | 11 | VLANs Part 1 | Network Segmentation |
 | 12 | VLANs Part 2 | Trunk ports & SUB-INTERFACES |
-
+| 13 | VLANs Part 3 | SVIs  |
 
 
 
