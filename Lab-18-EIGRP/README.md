@@ -67,7 +67,7 @@ R1# show ip route 192.168.4.0
 - Variance multiplier: routes with FD ≤ (best FD × variance) are used
 
 ## Connectivity Test
-- PC1 ping to PC4: ✅ Success
+-R1 ping to PC1 through different Routes : ✅ Success
 - Load balancing verified via: show ip route 192.168.4.0
 
 ## Status
