@@ -7,7 +7,7 @@ This portfolio serves as practical evidence of my networking skills.
 ## Progress
 
 
-![Labs Completed](https://img.shields.io/badge/Labs%21Completed-18-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%21Completed-19-brightgreen)
 
 
 
@@ -42,7 +42,7 @@ This portfolio serves as practical evidence of my networking skills.
 | 16 | ETHERCHANNEL | SVIs  |
 | 17 | FLoating Static Route | Dynamic Routing  |
 | 18 | EIGRP | Dynamic Routing Protocols  |
-
+| 19 | OSPF Part1 | Dynamic Routing Protocols  |
 
 
 ## Tools Used
