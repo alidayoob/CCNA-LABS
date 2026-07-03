@@ -7,7 +7,7 @@ This portfolio serves as practical evidence of my networking skills.
 ## Progress
 
 
-![Labs Completed](https://img.shields.io/badge/Labs%21Completed-13-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%21Completed-18-brightgreen)
 
 
 
@@ -37,6 +37,11 @@ This portfolio serves as practical evidence of my networking skills.
 | 11 | VLANs Part 1 | Network Segmentation |
 | 12 | VLANs Part 2 | Trunk ports & SUB-INTERFACES |
 | 13 | VLANs Part 3 | SVIs  |
+| 14 | VTP & DTP | Trunking Protocols  |
+| 15 | Spanning Tree | Cnfiguring STP  |
+| 16 | ETHERCHANNEL | SVIs  |
+| 17 | FLoating Static Route | Dynamic Routing  |
+| 18 | EIGRP | Dynamic Routing Protocols  |
 
 
 
