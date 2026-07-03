@@ -24,7 +24,7 @@ This portfolio serves as practical evidence of my networking skills.
 ## Labs Completed
 | # | Lab | Topic |
 |---|-----|-------|
-| 01 | Packet Tracer Intro | Interface Navigation (Lab-01-Packet-Tracer-Intro) |
+| 01 | Packet Tracer Intro | Interface Navigation !(Lab-01-Packet-Tracer-Intro) |
 | 02 | Network Cabling | Cable Types |
 | 03 | OSI Model | Traffic Analysis |
 | 04 | Basic Device Security | Passwords & Encryption |
