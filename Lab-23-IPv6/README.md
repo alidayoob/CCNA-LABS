@@ -14,8 +14,8 @@ and configure static routes for end-to-end IPv6 connectivity.
 | R2 | G0/1 | 2001:db8:0:1::/64 (EUI-64) |
 | R1 | G0/0 | Link-local only (ipv6 enable) |
 | R2 | G0/0 | Link-local only (ipv6 enable) |
-| PC1 | NIC | 2001:db8::1/64 |
-| PC2 | NIC | 2001:db8:0:1::1/64 |
+| PC1 | NIC | 2001:db8::2/64 |
+| PC2 | NIC | 2001:db8:0:1::2/64 |
 
 ## EUI-64 Calculation
 
@@ -71,6 +71,7 @@ PC1> ping 2001:db8:0:1::1
 
 ## Connectivity Test
 - PC1 ping to PC2 (IPv6): ✅ Success
+![](PC1-Ping-PC2.png)
 
 ## Status
 ✅ Completed
