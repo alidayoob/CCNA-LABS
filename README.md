@@ -1,3 +1,4 @@
+```
 # CCNA Labs - Ali Dayoob
 
 ## About
@@ -5,7 +6,7 @@ Documenting my CCNA study journey following Jeremy's IT Lab course on YouTube.
 This portfolio serves as practical evidence of my networking skills.
 
 ## Progress
-![Labs Completed](https://img.shields.io/badge/Labs%20Completed-30-brightgreen)
+![Labs Completed](https://img.shields.io/badge/Labs%20Completed-39-brightgreen)
 ![Course](https://img.shields.io/badge/Course-Jeremy's%20IT%20Lab-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
@@ -42,6 +43,15 @@ This portfolio serves as practical evidence of my networking skills.
 | 28 | NTP | Time Synchronization |
 | 29 | DNS | Name Resolution |
 | 30 | DHCP | Dynamic Addressing & Relay |
+| 31 | Syslog | Logging & Severity Levels |
+| 32 | SSH | Secure Remote Access |
+| 33 | TFTP & FTP | IOS File Transfer & Upgrade |
+| 34 | Static NAT | Public/Private IP Translation |
+| 35 | Dynamic NAT & PAT | NAT Overload |
+| 36 | Voice VLANs | Data & Voice Traffic Separation |
+| 37 | QoS | Traffic Classification & Marking |
+| 38 | Port Security | MAC Address Limiting |
+| 39 | DHCP Snooping | Rogue DHCP Server Protection |
 
 ## Tools Used
 - Cisco Packet Tracer
