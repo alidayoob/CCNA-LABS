@@ -1,4 +1,3 @@
-```
 # CCNA Labs - Ali Dayoob
 
 ## About
