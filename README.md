@@ -11,6 +11,7 @@ This portfolio serves as practical evidence of my networking skills.
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ## Labs Completed
+
 | # | Lab | Topic |
 |---|-----|-------|
 | 01 | Packet Tracer Intro | Interface Navigation |
